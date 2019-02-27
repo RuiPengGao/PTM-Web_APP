@@ -11,3 +11,9 @@ header{
   	background-size: cover;
   	background-position: center;
 }
+
+.logo {
+	float: left;
+	width: 150px;
+	height: auto;
+}
