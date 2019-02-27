@@ -26,4 +26,7 @@ ul {
 }
 
 .account{
+	float: right;
+	width: 50px;
+	height: auto;
 }
