@@ -26,6 +26,14 @@ ul {
   	border-radius: 3px solid #FFFFF0;
 }
 
+.logo img{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100px;
+	height: auto;
+}
+
 .account{
 	float: right;
 	width: 50px;
