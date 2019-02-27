@@ -12,8 +12,15 @@ header{
   	background-position: center;
 }
 
+ul {
+	float: left;
+	list-style-type: none;
+}
+
+
 .logo {
 	float: left;
 	width: 150px;
 	height: auto;
 }
+.account
